@@ -42,6 +42,7 @@ Here is my testament to my commitment in featuring security research, red teamin
 
 ## 🛠️ Tools
 
+
 🔐 Web Application Penetration Testing
 
 Burp Suite – Proxying and manipulating HTTP requests, testing headers (User-Agent, X-Forwarded-For)
