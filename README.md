@@ -121,17 +121,38 @@ sshpass – Useful in automated SSH brute-force or login scripts
     <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
 </div>
 
-### Endpoint
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Nmap-4A90E2?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Netcat-333333?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Masscan-FF6F61?style=for-the-badge&logo=hackaday&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/-tcpdump-555555?style=for-the-badge&logo=gnu&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Scapy-F5C211?style=for-the-badge&logo=python&logoColor=black" />
+  <img src="https://img.shields.io/badge/-Traceroute-808080?style=for-the-badge&logo=ubuntu&logoColor=white" />
+  <img src="https://img.shields.io/badge/-dig/nslookup-00BFFF?style=for-the-badge&logo=cloudflare&logoColor=white" />
 </div>
 
-### SIEM
+
+
+### 🔐 Brute-forcing & Credential Attacks Tools
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Hydra-400E32?style=for-the-badge&logo=kalilinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Medusa-008080?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Patator-DAA520?style=for-the-badge&logo=python&logoColor=black" />
+  <img src="https://img.shields.io/badge/-SecLists-000000?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Burp%20Suite-FF6F00?style=for-the-badge&logo=burpsuite&logoColor=white" />
+</div>
+
+### 🌐 Web Application Recon & Exploitation Tools
+<div>
+  <img src="https://img.shields.io/badge/-Burp%20Suite-FF6F00?style=for-the-badge&logo=burpsuite&logoColor=white" />
+  <img src="https://img.shields.io/badge/-OWASP%20ZAP-0096FF?style=for-the-badge&logo=owasp&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Gobuster-FF4500?style=for-the-badge&logo=gnubash&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Dirb-3E3E3E?style=for-the-badge&logo=gnubash&logoColor=white" />
+  <img src="https://img.shields.io/badge/-WhatWeb-4CAF50?style=for-the-badge&logo=firefox-browser&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Wappalyzer-800080?style=for-the-badge&logo=wappalyzer&logoColor=white" />
+  <img src="https://img.shields.io/badge/-curl-007AA6?style=for-the-badge&logo=curl&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 </div>
 
 ## Certifications
