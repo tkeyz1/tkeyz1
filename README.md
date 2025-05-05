@@ -21,7 +21,7 @@ Here is my testament to my commitment in featuring security research, red teamin
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Web Applicaton Penetration Testing                | <a href="https://github.com/tkeyz1/web-application/tree/main">Web Applicaton Penetration Testing</a>|
-| Python Port Scanning                                     | <a href="https://google.com">Detection Lab</a>|
+| Python Port Scanning                                     | <a href="https://google.com](https://github.com/tkeyz1/Python-Port-Scanning-/tree/main">Python Port Scanning</a>|
 | Directory Brute-forcing                           |                   |
 | Brute-forcing Login Credentials                   |                   |
 | Network Traffic Interception                      |                   |
@@ -181,7 +181,7 @@ sshpass – Useful in automated SSH brute-force or login scripts
 ## Projects
 • <a href="https://github.com/tkeyz1/web-application/tree/main">Web Applicaton Penetration Testing</a>
 
-• TryHackMe  
+• <a href="https://google.com](https://github.com/tkeyz1/Python-Port-Scanning-/tree/main">Python Port Scanning</a>
 
 • Juicy Shop OWASP
 
