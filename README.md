@@ -119,18 +119,16 @@ sshpass – Useful in automated SSH brute-force or login scripts
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
     <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Nmap-4A90E2?style=for-the-badge&logo=linux&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Netcat-333333?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Masscan-FF6F61?style=for-the-badge&logo=hackaday&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+    <img src="https://img.shields.io/badge/-tcpdump-555555?style=for-the-badge&logo=gnu&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Scapy-F5C211?style=for-the-badge&logo=python&logoColor=black" />
+    <img src="https://img.shields.io/badge/-Traceroute-808080?style=for-the-badge&logo=ubuntu&logoColor=white" />
+    <img src="https://img.shields.io/badge/-dig/nslookup-00BFFF?style=for-the-badge&logo=cloudflare&logoColor=white" />
 </div>
 
-<div>
-  <img src="https://img.shields.io/badge/-Nmap-4A90E2?style=for-the-badge&logo=linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Netcat-333333?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Masscan-FF6F61?style=for-the-badge&logo=hackaday&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
-  <img src="https://img.shields.io/badge/-tcpdump-555555?style=for-the-badge&logo=gnu&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Scapy-F5C211?style=for-the-badge&logo=python&logoColor=black" />
-  <img src="https://img.shields.io/badge/-Traceroute-808080?style=for-the-badge&logo=ubuntu&logoColor=white" />
-  <img src="https://img.shields.io/badge/-dig/nslookup-00BFFF?style=for-the-badge&logo=cloudflare&logoColor=white" />
-</div>
 
 
 
@@ -142,6 +140,8 @@ sshpass – Useful in automated SSH brute-force or login scripts
   <img src="https://img.shields.io/badge/-SecLists-000000?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/-Burp%20Suite-FF6F00?style=for-the-badge&logo=burpsuite&logoColor=white" />
 </div>
+
+
 
 ### 🌐 Web Application Recon & Exploitation Tools
 <div>
@@ -156,15 +156,42 @@ sshpass – Useful in automated SSH brute-force or login scripts
 </div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/-OSCP%20Study%20in%20Progress-F05032?&style=for-the-badge&logo=offensive-security&logoColor=white" />
+</div>
+<img src="https://img.shields.io/badge/-iOS%20Application%20Security-999999?&style=for-the-badge&logo=apple&logoColor=white" />
+<div>
+    
+<div>
+  <img src="https://img.shields.io/badge/-Mobile%20Hacking%20Lab-000000?&style=for-the-badge&logo=apple&logoColor=white" />
+
 </div>
 
+<div>
+  <img src="https://img.shields.io/badge/-Cisco%20Python%20Course-1BA0D7?&style=for-the-badge&logo=Cisco&logoColor=white" />
+</div>
+
+<div>
+  <img src="https://img.shields.io/badge/-Cisco%20Certified%20Cyber%20Security-1BA0D7?&style=for-the-badge&logo=Cisco&logoColor=white" />
+</div>
+
+
+
 ## Projects
-- Detection Lab
-- SOC Automation Project
+• CTF Projects 
+
+• TryHackMe  
+
+• Juicy Shop OWASP
+
+• HacktheBox  
+
+• Wireless Hacking
+
+• Port Scanner. 
+
+• Python Password 
+
+• Checker Python Port Scanner 
+
+• Letsdefend 
