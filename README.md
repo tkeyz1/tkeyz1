@@ -20,7 +20,7 @@ Here is my testament to my commitment in featuring security research, red teamin
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Web Applicaton Penetration Testing                | <a href="https://google.com">Detection Lab</a>|
+| Web Applicaton Penetration Testing                | <a href="https://github.com/tkeyz1/web-application/tree/main">Web Applicaton Penetration Testing</a>|
 | Python Port Scanning                                     | <a href="https://google.com">Detection Lab</a>|
 | Directory Brute-forcing                           |                   |
 | Brute-forcing Login Credentials                   |                   |
@@ -179,7 +179,7 @@ sshpass – Useful in automated SSH brute-force or login scripts
 
 
 ## Projects
-• CTF Projects 
+• <a href="https://github.com/tkeyz1/web-application/tree/main">Web Applicaton Penetration Testing</a>
 
 • TryHackMe  
 
