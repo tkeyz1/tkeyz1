@@ -18,7 +18,7 @@ Here is my testament to my commitment in featuring security research, red teamin
 
 ## Skills
 
-| Skill                                         | Associated Project         |
+| Skills                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Web Applicaton Penetration Testing                | <a href="https://github.com/tkeyz1/web-application/tree/main">Web Applicaton Penetration Testing</a>|
 | Python Port Scanning                                     | <a href="https://google.com](https://github.com/tkeyz1/Python-Port-Scanning-/tree/main">Python Port Scanning</a>|
