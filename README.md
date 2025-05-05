@@ -1,33 +1,118 @@
 # Hello, I'm Oluwatosin
-<a href="https://linkedin.com"/in/oluwatosin-isaac-adeyemi><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://linkedin.com/in/oluwatosin-isaac-adeyemi">
+    <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />
+    
+</a>
 
-[Brief Introduction - Remove this afterwards]
-
+## Introduction 
 Penetration Tester involved in network pentesting, web application pentesting, red team engagements, offensive security, and physical pentests. 
 
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
+
 
 My journey as a passionate and hands-on penetration tester, I flourish in identifying vulnerabilities and Strengthening security landscapes.
-Here is my testament to my commitment in featuring security research, ethical hacking tools, and real-world penetration testing methodologies.
+Here is my testament to my commitment in featuring security research, red teaming, offensive security,  ethical hacking tools, and real-world penetration testing methodologies.
 
 
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Web Applicaton Penetration Testing                | <a href="https://google.com">Detection Lab</a>|
+| Python Port Scanning                                     | <a href="https://google.com">Detection Lab</a>|
+| Directory Brute-forcing                           |                   |
+| Brute-forcing Login Credentials                   |                   |
+| Network Traffic Interception                      |                   |
+| PICO CTF Challenge 2021: Remote Code Execution Vulnerability on windows in 2021.             |             |
+| CTF Challenge on "Don't Bump Your Header"         |
+| CTF: Defend TheWeb "Where Am I?":                 |
+| Vulnhub: "Vulnix"                                 |
+| Pico CTF Challenge: "It is my birthday".          |
+| PICO CITF: "Where are the Robots"                  |
+| Intercepting Traffic w/ Wireshark                 | Packet analysis and credential sniffing
+| Privilege Escalation                              | Post-exploitation privilege gain 
+| SSH Login                                         | Manual/Automated SSH Authentication  
+| Python Password Checker                           | Custom script for password strength  
+| File Encryption/Decryption (Python)               | AES-based encryption script  
 
-## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
+
+
+
+## 🛠️ Tools
+
+🔐 Web Application Penetration Testing
+
+Burp Suite – Proxying and manipulating HTTP requests, testing headers (User-Agent, X-Forwarded-For)
+
+OWASP ZAP – Scanning for web vulnerabilities
+
+Nikto – Server and app vulnerability scanning
+
+WhatWeb / Wappalyzer – Fingerprinting web technologies
+
+
+⚙️ Network Security & Traffic Analysis
+
+Wireshark – Intercepting and analyzing network packets
+
+tcpdump – Command-line packet capture
+
+nmap – Port scanning, OS detection
+
+Netcat – Debugging and data transfer over network
+
+Scapy – Python-based packet crafting for testing
+
+
+
+💻 Brute Forcing & Enumeration
+
+Hydra – Brute-force login credentials
+
+Gobuster / Dirb – Directory brute-forcing
+
+Medusa – Fast parallel login brute-forcer
+
+Wordlists – From SecLists, for directory or password brute-forcing
+
+
+🐍 Python Security Projects
+
+socket – Used for building custom port scanners
+
+hashlib – Password strength checker, encryption tools
+
+threading – For concurrent scanning (e.g., port scanner)
+
+argparse – For command-line interface development
+
+cryptography – File encryption and decryption in Python
+
+
+🧪 CTF & Vulnerability Testing
+
+PicoCTF Platform – Challenges like RCE, privilege escalation
+
+TryHackMe / Hack The Box – VulnHub machines (e.g., Vulnix)
+
+Burp Suite – For manipulating headers in challenges like “Don’t Bump Your Header”
+
+curl / Postman – For crafting HTTP requests manually
+
+Linux tools – whoami, id, uname, sudo -l for privilege escalation
+
+
+🔑 Privilege Escalation / SSH
+
+LinPEAS / WinPEAS – For privilege escalation enumeration
+
+SSH – Secure remote login and automation (used in login challenges)
+
+sshpass – Useful in automated SSH brute-force or login scripts
+
+
 
 ### Network
 <div>
