@@ -27,11 +27,11 @@ Here is my testament to my commitment in featuring security research, red teamin
 | Network Traffic Interception                      |                   |
 | PICO CTF Challenge 2021: Remote Code Execution Vulnerability on windows in 2021.             |             |
 | CTF Challenge on "Don't Bump Your Header"         |
-| CTF: Defend TheWeb "Where Am I?"                 | <a href="https://github.com/tkeyz1/CTF-Defend-TheWeb-Where-Am-I-/tree/main"> CTF: Defend TheWeb "Where Am I?"</a>|
+| CTF: Defend TheWeb "Where Am I?"                  | <a href="https://github.com/tkeyz1/CTF-Defend-TheWeb-Where-Am-I-/tree/main"> CTF: Defend TheWeb "Where Am I?"</a>|
 | Vulnhub: "Vulnix"                                 |
-| Pico CTF Challenge: "It is my birthday"          |
-| PICO CITF: "Where are the Robots"                  |
-| Intercepting Traffic w/ Wireshark                 | Packet analysis and credential sniffing
+| Pico CTF Challenge: "It is my birthday"           |
+| PICO CITF: "Where are the Robots"                 |
+| Intercepting Traffic with Wireshark               | Packet analysis and credential sniffing
 | Privilege Escalation                              | Post-exploitation privilege gain 
 | SSH Login                                         | Manual/Automated SSH Authentication  
 | Python Password Checker                           | Custom script for password strength  
