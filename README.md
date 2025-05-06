@@ -22,7 +22,7 @@ Here is my testament to my commitment in featuring security research, red teamin
 |-----------------------------------------------|----------------------------|
 | Web Applicaton Penetration Testing                | <a href="https://github.com/tkeyz1/web-application/tree/main">Web Applicaton Penetration Testing</a>|
 | Python Port Scanning                                     | <a href="https://google.com](https://github.com/tkeyz1/Python-Port-Scanning-/tree/main">Python Port Scanning</a>|
-| Directory Brute-forcing                           |                   |
+| Directory-Brute-forcing                           |  <a href="https://github.com/tkeyz1/Directory-Brute-forcing">Directory-Brute-forcing</a>|
 | Brute-forcing Login Credentials                   |                   |
 | Network Traffic Interception                      |                   |
 | PICO CTF Challenge 2021: Remote Code Execution Vulnerability on windows in 2021.             |             |
@@ -183,7 +183,7 @@ sshpass – Useful in automated SSH brute-force or login scripts
 
 • <a href="https://google.com](https://github.com/tkeyz1/Python-Port-Scanning-/tree/main">Python Port Scanning</a>
 
-• Juicy Shop OWASP
+• <a href="https://github.com/tkeyz1/Directory-Brute-forcing">Directory-Brute-forcing</a>
 
 • HacktheBox  
 
