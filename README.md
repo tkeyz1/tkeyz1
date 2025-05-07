@@ -26,7 +26,7 @@ Here is my testament to my commitment in featuring security research, red teamin
 | Brute-forcing Login Credentials                   |                   |
 | Network Traffic Interception                      |                   |
 | PICO CTF Challenge 2021: Remote Code Execution Vulnerability on windows in 2021.             |             |
-| CTF Challenge on "Don't Bump Your Header"         |
+| CTF Challenge on "Don't Bump Your Header"         |  <a href="https://github.com/tkeyz1/-CTF-Challenge-on-Don-t-Bump-Your-Header-/tree/main">CTF Challenge on "Don't Bump Your Header"</a>|
 | CTF: Defend TheWeb "Where Am I?"                  | <a href="https://github.com/tkeyz1/CTF-Defend-TheWeb-Where-Am-I-/tree/main"> CTF: Defend TheWeb "Where Am I?"</a>|
 | Vulnhub: "Vulnix"                                 |
 | Pico CTF Challenge: "It is my birthday"           |
@@ -187,7 +187,7 @@ sshpass – Useful in automated SSH brute-force or login scripts
 
 • <a href="https://github.com/tkeyz1/CTF-Defend-TheWeb-Where-Am-I-/tree/main"> CTF: Defend TheWeb "Where Am I?"</a>
 
-• Wireless Hacking
+• <a href="https://github.com/tkeyz1/-CTF-Challenge-on-Don-t-Bump-Your-Header-/tree/main">CTF Challenge on "Don't Bump Your Header"</a>
 
 • Port Scanner. 
 
