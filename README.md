@@ -34,7 +34,7 @@ Here is my testament to my commitment in featuring security research, red teamin
 | Intercepting Traffic with Wireshark               | Packet analysis and credential sniffing
 | Privilege Escalation                              | Post-exploitation privilege gain 
 | SSH Login                                         | Manual/Automated SSH Authentication  
-| Python Password Checker                           | Custom script for password strength  
+| Python Password Checker                           | <a href="https://github.com/tkeyz1/Python-Password-Checker-">Python Password Checker</a>|
 | File Encryption/Decryption (Python)               | AES-based encryption script  
 
 
@@ -188,6 +188,8 @@ sshpass – Useful in automated SSH brute-force or login scripts
 - <a href="https://github.com/tkeyz1/CTF-Defend-TheWeb-Where-Am-I-/tree/main"> CTF: Defend TheWeb "Where Am I?"</a>
 
 - <a href="https://github.com/tkeyz1/Pico-CTF-Challenge-It-is-my-birthday.">Pico CTF Challenge: "It is my birthday"</a>
+
+- <a href="https://github.com/tkeyz1/Python-Password-Checker-">Python Password Checker</a>
 
 -  <a href="https://github.com/tkeyz1/-CTF-Challenge-on-Don-t-Bump-Your-Header-/tree/main">CTF Challenge on "Don't Bump Your Header"</a>
 
