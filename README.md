@@ -30,7 +30,7 @@ Here is my testament to my commitment in featuring security research, red teamin
 | CTF: Defend TheWeb "Where Am I?"                  | <a href="https://github.com/tkeyz1/CTF-Defend-TheWeb-Where-Am-I-/tree/main">CTF: Defend TheWeb "Where Am I?"</a>|
 | Vulnhub: "Vulnix"                                 | <a href="https://github.com/tkeyz1/Vulnhub-Vulnix/tree/main">Vulnhub: "Vulnix"</a>|
 | Pico CTF Challenge: "It is my birthday"           | <a href="https://github.com/tkeyz1/Pico-CTF-Challenge-It-is-my-birthday.">Pico CTF Challenge: "It is my birthday"</a>|
-| PICO CITF: "Where are the Robots"                 |
+| PICO CITF: "Where are the Robots"                 | <a href="https://github.com/tkeyz1/PICOCITF-Where-are-the-Robots">PICO CITF: "Where are the Robots"</a>|
 | Intercepting Traffic with Wireshark               | Packet analysis and credential sniffing
 | Privilege Escalation                              | Post-exploitation privilege gain 
 | SSH Login                                         | Manual/Automated SSH Authentication  
@@ -196,6 +196,6 @@ sshpass – Useful in automated SSH brute-force or login scripts
 
 • <a href="https://github.com/tkeyz1/PICOCTF-Challenge-2021-Remote-Code-Execution-Vulnerability-on-windows-in-2021.">PICO CTF Challenge 2021: Remote Code Execution Vulnerability on windows in 2021.</a>
 
-• Checker Python Port Scanner 
+• <a href="https://github.com/tkeyz1/PICOCITF-Where-are-the-Robots">PICO CITF: "Where are the Robots"</a>
 
 • Letsdefend 
